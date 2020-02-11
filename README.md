@@ -7,3 +7,6 @@ A PoC with hugo, snipcart for an ecommerce web application
 
 ## Screenshot
 ![Screenshot](landingpage.jpg)
+
+## Demo 
+https://poc-hugo-ecommerce.netlify.com/
