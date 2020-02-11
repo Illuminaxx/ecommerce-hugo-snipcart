@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "RAY-BAN",
+        "price": 134.87,
+        "image": "/images/rayban.jpg",
+        "description": "Paire de lunettes issue de la collection Mixte de Rayban. La monture est en plastique, de forme carré, couleur noire gomme",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": 2,
+        "name": "D&G",
+        "price": 179.80,
+        "image": "/images/D&G.jpg",
+        "description": "Issue de la collection Homme, Style tendance, monture cerclée, de forme arrondie en matière plastique. Couleur Noir",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": 3,
+        "name": "Hugo Boss",
+        "price": 190.00,
+        "image": "/images/hb.jpg",
+        "description": "Lunettes légères avec monture en acétate noir",
+        "url": "http://snipcart-hugo.netlify.com"
+    }
+]
